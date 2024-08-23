@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="9" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-16T12:12:13 IST" name="loan department" finished-at="2024-08-16T12:12:13 IST" duration-ms="175">
+    <groups>
+    </groups>
+    <test started-at="2024-08-16T12:12:13 IST" name="personal loan" finished-at="2024-08-16T12:12:13 IST" duration-ms="175">
+      <class name="selenium_practice.selenium_test.day4">
+        <test-method is-config="true" signature="top()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="top" finished-at="2024-08-16T12:12:13 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- top -->
+        <test-method is-config="true" signature="demo6(java.lang.String,java.lang.String)[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="demo6" finished-at="2024-08-16T12:12:13 IST" duration-ms="9" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.flipkart.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo6 -->
+        <test-method is-config="true" signature="bclass()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="bclass" finished-at="2024-08-16T12:12:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method signature="edemo5(java.lang.String,java.lang.String)[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="edemo5" data-provider="getData" finished-at="2024-08-16T12:12:13 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firstpass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edemo5 -->
+        <test-method is-config="true" signature="amethod()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="amethod" finished-at="2024-08-16T12:12:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method signature="edemo5(java.lang.String,java.lang.String)[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="edemo5" data-provider="getData" finished-at="2024-08-16T12:12:13 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edemo5 -->
+        <test-method is-config="true" signature="amethod()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="amethod" finished-at="2024-08-16T12:12:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method signature="edemo5(java.lang.String,java.lang.String)[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="edemo5" data-provider="getData" finished-at="2024-08-16T12:12:13 IST" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdname]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpass]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edemo5 -->
+        <test-method is-config="true" signature="amethod()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="amethod" finished-at="2024-08-16T12:12:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method signature="bdemo5()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="bdemo5" finished-at="2024-08-16T12:12:13 IST" depends-on-methods="selenium_practice.selenium_test.day4.edemo5" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bdemo5 -->
+        <test-method is-config="true" signature="amethod()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="amethod" finished-at="2024-08-16T12:12:13 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method is-config="true" signature="aclass()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="aclass" finished-at="2024-08-16T12:12:13 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aclass -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:selenium_practice.selenium_test.day4@67c27493]" started-at="2024-08-16T12:12:13 IST" name="atest" finished-at="2024-08-16T12:12:13 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+      </class> <!-- selenium_practice.selenium_test.day4 -->
+      <class name="selenium_practice.selenium_test.day5">
+        <test-method signature="demo3(java.lang.String,java.lang.String)[pri:0, instance:selenium_practice.selenium_test.day5@6cf0e0ba]" started-at="2024-08-16T12:12:13 IST" name="demo3" finished-at="2024-08-16T12:12:13 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.flipkart.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo3 -->
+      </class> <!-- selenium_practice.selenium_test.day5 -->
+      <class name="selenium_practice.selenium_test.day1">
+        <test-method signature="demo2()[pri:0, instance:selenium_practice.selenium_test.day1@7d8995e]" started-at="2024-08-16T12:12:13 IST" name="demo2" finished-at="2024-08-16T12:12:13 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method is-config="true" signature="end()[pri:0, instance:selenium_practice.selenium_test.day1@7d8995e]" started-at="2024-08-16T12:12:13 IST" name="end" finished-at="2024-08-16T12:12:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="ending()[pri:0, instance:selenium_practice.selenium_test.day1@7d8995e]" started-at="2024-08-16T12:12:13 IST" name="ending" finished-at="2024-08-16T12:12:13 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ending -->
+      </class> <!-- selenium_practice.selenium_test.day1 -->
+    </test> <!-- personal loan -->
+  </suite> <!-- loan department -->
+</testng-results>
